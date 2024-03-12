@@ -17,9 +17,9 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21275
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21273
 #EXTINF:-1,SporTV 3 UHD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21274
-#EXTINF:-1,PARAMOUNT + 1 UHD
+#EXTINF:-1,PARAMOUNTsport UHD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/250562
-#EXTINF:-1,PARAMOUNT + 3 UHD
+#EXTINF:-1,PARAMOUNTsport UHD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/250571
 #EXTINF:-1,Band Sports UHD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21225
@@ -27,7 +27,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21225
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18021
 #EXTINF:-1,EUROSPORT 2
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18022
-#EXTINF:-1,EUROSPORT 1 HD H265
+#EXTINF:-1,EUROSPORT 1 HD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18025
 #EXTINF:-1,EUROSPORT 2 H265
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/18026
@@ -45,7 +45,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21232
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112086
 #EXTINF:-1,BAND SP UHD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/255466
-#EXTINF:-1,TV RECORD PORTUGAL HD
+#EXTINF:-1,TV RECORD PT HD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112038
 #EXTINF:-1,RECORDTV SP UHD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/244073
@@ -67,7 +67,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21224
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/118889
 #EXTINF:-1,GLOBO NEWS UHD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21244
-#EXTINF:-1,GLOBO NEWS | Brasil
+#EXTINF:-1,GLOBO NEWS HD
 http://209.222.97.92:16436/GloboNews
 #EXTINF:-1,JOVEM PAN NEWS UHD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/21221
@@ -81,7 +81,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/111945
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
 #EXTINF:-1,CBS NEWS HD
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
-#EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://images.pluto.tv/channels/61b790b985706b00072cb797/colorLogoPNG.png" group-title="Brasil: cinema em português",Adrenalina Freezone | Pluto TV Brasil
+#EXTINF:-1,PLUTO TV Adrenalina Freezone
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1,PLUTO TV CINE DRAMA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -105,7 +105,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad63
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1,PLUTO TV Porta dos Fundos
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f36f2346ede750007332d11&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
-#EXTINF:-1,PLUTO TV NARUTO 24h
+#EXTINF:-1,PLUTO TV NARUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 #EXTINF:-1,PLUTO TV NARUTO SHIPPUDEN
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
