@@ -1,15 +1,237 @@
-tudo aqui
-
-
-pode ser
-
-
-mudado a qqr momento
-
-
-
-fica ligado nas mudanças
-
-
-
-novidades em breve...
+#EXTM3U
+#EXTINF:-1,UFC HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/213738
+#EXTINF:-1,MLB 3
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/199393
+#EXTINF:-1,SPORTSMAN CHANNEL USA FHD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/213741
+#EXTINF:-1,GLOBO SP UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368445
+#EXTINF:-1,GLOBO DF HD
+http://globo.xphost18.xyz:2052/JgfgjjbcfyyDFD/678888yygfFFD/68
+#EXTINF:-1,BAND NEWS UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368409
+#EXTINF:-1,RECORD NEWS UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368475
+#EXTINF:-1,GLOBO NEWS UHD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/212334
+#EXTINF:-1,CNN INTERNACIONAL
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
+#EXTINF:-1,FRANCE 24 ESPANHOL
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/82021
+#EXTINF:-1,RTVE 24H FHD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/233179
+#EXTINF:-1,4 POR 4 HD
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+#EXTINF:-1,CBS NEWS HD
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
+#EXTINF:-1,CBS NEWS
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1,ABC NEWS LIVE
+https://lnc-abc-news.tubi.video/index.m3u8
+#EXTINF:-1,FOX NEWS NOW
+https://lnc-fox-live-now.tubi.video/index.m3u8
+#EXTINF:-1,NBC NEWS NOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1,DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,PLUTO TV ADRENALINA FREEZONE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV CINE SUCESSOS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV CINE DRAMA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,PLUTO TV CINE SUSPENSE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,PLUTO TV INVESTIGAÇÃO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,PLUTO TV CINE AÇÂO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV SÉRIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV VIDA REAL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,PLUTO TV CINE CRIME
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1,PLUTO TV GEEK E TECH
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV FICÇÃO CIENTIFICA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV ANIMAIS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV PORTA DOS FUNDOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f36f2346ede750007332d11&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1,PLUTO TV NARUTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1,PLUTO TV NARUTO SHIPPUDEN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV DEATH NOTE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV ANIME 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV ANIME AÇÂO 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,NATIONAL GEOGRAPHIC UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368462
+#EXTINF:-1,H2 UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368452
+#EXTINF:-1,E! UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368429
+#EXTINF:-1,TASTEMADE BRASIL
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,TLC UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368491
+#EXTINF:-1,UNIVERSAL CHANNEL UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368499
+#EXTINF:-1,STAR CHANNEL UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368435
+#EXTINF:-1,SONY UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368477
+#EXTINF:-1,LIFETIME UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368454
+#EXTINF:-1,TNT UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368492
+#EXTINF:-1,TNT Series UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368493
+#EXTINF:-1,SPACE UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368478
+#EXTINF:-1,CINEMAX UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368459
+#EXTINF:-1,PARAMOUNT UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368467
+#EXTINF:-1,HBO 2 UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368448
+#EXTINF:-1,HBO FAMILY UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368449
+#EXTINF:-1,HBO SIGNATURE UHD
+http://zeuspro.xyz:8080/Alcatras34fkkasd34/b6mZZFOybS/368451
+#EXTINF:-1,MYTIME MOVIES NETWORK
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,FORA DE CASA XXX
+https://cdn.wankoz.com/contents/videos/1029000/1029646/1029646_s.mp4?stime=20180914015003&etime=20180914030003&hash=082599b9827609c478720
+#EXTINF:-1,MOFOS XXX
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1,PORN BIAGASS
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1326
+#EXTINF:-1,PORN PENTHOUSE QUICKIES
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1311
+#EXTINF:-1,PORN PENTHOUSE GOLD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1317
+#EXTINF:-1,PORN XXL (18+)
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1316
+#EXTINF:-1,PORN SEX ATION
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1319
+#EXTINF:-1,PORN RUSSIAN NIGHT
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1320
+#EXTINF:-1,PORN CENT & CENTO
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1322
+#EXTINF:-1,PORN HUSTLER (18+)
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1324
+#EXTINF:-1,PORN SUPER ON
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1328
+#EXTINF:-1,PORN VENUS
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1327
+#EXTINF:-1,PORN VISIT X TV
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1330
+#EXTINF:-1,PORN VISIT X TV HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1331
+#EXTINF:-1,PORN JASMIN TV
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1332
+#EXTINF:-1,PORN ADULT IPTV BIG ASS
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1334
+#EXTINF:-1,PORN ADULT IPTV GANGBAND
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1343
+#EXTINF:-1,PORN ADULT IPTV INTERRACIAL
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1346
+#EXTINF:-1,PORN ADULT IPTV LESBIAN
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1348
+#EXTINF:-1,PORN ADULT IPTV LIVE CAMS
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1349
+#EXTINF:-1,PORN ADULT IPTV ROUGH
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1353
+#EXTINF:-1,PORN ADULT IPTV TEEN
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1355
+#EXTINF:-1,PORN ADULT IPTV POV
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1352
+#EXTINF:-1,PORN ADULT IPTV RUSIA
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1354
+#EXTINF:-1,PORN ADULT IPTV THREESOME
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1356
+#EXTINF:-1,PORN ASTV
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/1358
+#EXTINF:-1,OnlyFans Kiittenymph HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/227318
+#EXTINF:-1,OnlyFans Kittenindian HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/227320
+#EXTINF:-1,OnlyFans Laly Vallade HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/227321
+#EXTINF:-1,OnlyFans Lana24 HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/227322
+#EXTINF:-1,OnlyFans Lauren Phippips OF Dredd HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/227323
+#EXTINF:-1,OnlyFans Layndare HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/227324
+#EXTINF:-1,OnlyeFans Leahgoeswile HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/227325
+#EXTINF:-1,OnlyFans Lealolly HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/227326
+#EXTINF:-1,OnlyFans Lil-Braids HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/227327
+#EXTINF:-1,OnlyFans mackzjoness HD
+http://spaticplas.org:8080/Cambiotodoplus/w84fLZEtDQud/227337
+#EXTINF:-1,FANTHD1
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
+#EXTINF:-1,FANTHD2
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
+#EXTINF:-1,FANTHD3
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_caprianderson/content/vid01.mp4
+#EXTINF:-1,FANTHD4
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_natalieheart_chloefoster/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 12
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 13
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 14
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 15
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 16
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 17
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 18
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 19
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 20
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 21
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 22
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 23
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 24
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
