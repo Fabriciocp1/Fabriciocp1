@@ -1,19 +1,337 @@
-tudo 
-
-
-
-aqui tem
-
-
-
-mas porem entretanto
-
-
-
-quando convem
-
-
-mas em bre tera mais
-
-
-noviddes em breve
+#EXTM3U
+#EXTINF:-1,BBC News
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f
+#EXTINF:-1,Car Chase
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b384020cb1a1000880dee9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799151-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=51514d9d-db13-4653-aa11-b64c6d4665cc
+#EXTINF:-1,CBS NEWS
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1,CBS NEWS
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,CBS News Los Angeles
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a612bd7b-6a41-4c05-aebf-59ac30d6018b
+#EXTINF:-1,ABC NEWS LIVE
+https://lnc-abc-news.tubi.video/index.m3u8
+#EXTINF:-1,FOX NEWS NOW
+https://lnc-fox-live-now.tubi.video/index.m3u8
+#EXTINF:-1,FOX 5 Washington DC
+https://lnc-wttg.tubi.video/index.m3u8
+#EXTINF:-1,FOX Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1,FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,FOX NEWS
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
+#EXTINF:-1,SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1,NBC NEWS NOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1,DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,TV VIDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+#EXTINF:-1,COM Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1,4 POR 4 HD
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+#EXTINF:-1,4 POR 4 
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8
+#EXTINF:-1,CNN Brasil
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1,CNN BRASIL FHD
+https://isgo.newclews.workers.dev/stream/UCvdwhh_fDyWccR42-rReZLw/master.m3u8
+#EXTINF:-1,Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1,CANAL UOL
+https://d19fe0yjxkxylf.cloudfront.net/index.m3u8
+#EXTINF:-1,JOVEM PAN NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:-1,24h News FHD
+http://cdn.connectbr.com.br/24_news/index.m3u8?ManoTV
+#EXTINF:-1,GLOBO RJ 4
+https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1,RECORD SP 2
+https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/index.m3u8
+#EXTINF:-1,Channel Fight
+https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-Nuestra/266.m3u8
+#EXTINF:-1,Discovery Channel HD
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+#EXTINF:-1,Animal Planet HD
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+#EXTINF:-1,TCM 10
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1,NBT
+https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
+#EXTINF:-1,HISTORY
+http://cdn2.connectbr.com.br/History/index.m3u8
+#EXTINF:-1,HISTORY 2
+https://cdn-2.nxplay.com.br/HISTORY_2_TK/index.m3u8
+#EXTINF:-1,TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:-1,URBAN TURBO
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+#EXTINF:-1,PLUTO TV ADRENALINA FREEZONE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV CINE SUCESSOS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV CINE DRAMA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,PLUTO TV CINE SUSPENSE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,PLUTO TV INVESTIGAÇÃO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,PLUTO TV CINE AÇÂO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV SÉRIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV VIDA REAL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,PLUTO TV CINE CRIME
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1,PLUTO TV GEEK E TECH
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV FICÇÃO CIENTIFICA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV ANIMAIS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV PORTA DOS FUNDOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f36f2346ede750007332d11&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1,PLUTO TV NARUTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1,PLUTO TV NARUTO SHIPPUDEN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV DEATH NOTE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV ANIME 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,PLUTO TV ANIME AÇÂO 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,TASTEMADE BRASIL
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,DEMAND AFRICA
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+#EXTINF:-1,DarkFlix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:-1,Dark Flix
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ManoTV
+#EXTINF:-1,MY TIME MOVIE
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,My Time Movies
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
+#EXTINF:-1,MY TIME MOVIES NETWORK
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1,SONY ONE SHARK TANK
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+#EXTINF:-1,GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
+#EXTINF:-1,Sony One Classics
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,SONY ONE EMOCOES
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+#EXTINF:-1,SONY ONE EMOCOES
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8?ManoTV
+#EXTINF:-1,Sony Channel HD
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1,MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+#EXTINF:-1,MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8?ManoTV
+#EXTINF:-1,HALLO MOVIES
+https://cdn-2.nxplay.com.br:443/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:-1,HTO FILMES
+https://cdn-2.nxplay.com.br/HTO_Filmes/playlist.m3u8
+#EXTINF:-1,URBAN MOVIES
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:-1,ENTRETENDO
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:-1,Entretendo
+http://cdn.connectbr.com.br/Entretendo/index.m3u8?ManoTV
+#EXTINF:-1,PARAMOUNT
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/289/289.m3u8
+#EXTINF:-1,Paramount Channel HD BR
+http://cdn2.connectbr.com.br/paramount/tracks-v1a1/mono.m3u8?ManoTV
+#EXTINF:-1,LIFETIME 1
+http://cdn.connectbr.com.br/Lifetime/index.m3u8
+#EXTINF:-1,BORA FILMES
+http://cdn2.connectbr.com.br/Bora_Filmes/index.m3u8
+#EXTINF:-1,Bora Filmes
+http://cdn.connectbr.com.br/Bora_Filmes/tracks-v1a1/mono.m3u8?ManoTV
+#EXTINF:-1,SPACE HD
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+#EXTINF:-1,TNT HD
+https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+#EXTINF:-1,A&E SD
+http://cdn.connectbr.com.br/AE/index.m3u8
+#EXTINF:-1,A&E
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
+#EXTINF:-1,AXN HD 
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1,AMC HD
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+#EXTINF:-1,HTO FILMES
+https://cdn-2.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TELETUBBIES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Espaconave Terra Semana 01
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2001%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 02
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2002%20HD(480P).mp4
+#EXTINF:-1,Espaconave Terra Semana 03
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2003%20HQ(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 04
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2004%20HQ(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 05
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2005%20HD(480P).mp4
+#EXTINF:-1,Espaconave Terra Semana 06
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2006%20HD(480P).mp4
+#EXTINF:-1,Espaconave Terra Semana 07
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2007%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 08
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2008%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 09
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2009%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 10
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2010%20HD(480P).mp4
+#EXTINF:-1,Espaconave Terra Semana 11
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2011%20HD(480P).mp4
+#EXTINF:-1,Espaconave Terra Semana 12
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2012%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 13
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2013%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 14
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2014%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 15
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2015%20HD(480P).mp4
+#EXTINF:-1,Espaconave Terra Semana 16
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2016%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 17
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2017%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 18
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2018%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 19
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2019%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 20
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2020%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 21
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2021%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 22
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2022%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 23
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2023%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 24
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2024%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 25
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2025%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 26
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2026%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 27
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2027%20HD(480P).mp4
+#EXTINF:-1,Espaconave Terra Semana 28
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2028%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 29
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2029%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 30
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2030%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 31
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2031%20HD(480P).mp4
+#EXTINF:-1,Espaconave Terra Semana 32
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2032%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 33
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2033%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 34
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2034%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 35
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2035%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 36
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2036%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 37
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2037%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 38
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2038%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 39
+https://github.com/mariosanthos/arquivo2/raw/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2039%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 40
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2040%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 41
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2041%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 42
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2042%20HD(480P).mp4
+#EXTINF:-1,Espaconave Terra Semana 43
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2043%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 44
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2044%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 45
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2045%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 46
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2046%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 47
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2047%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 48
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2048%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 49
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2049%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 50
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2050%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 51
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2051%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 52
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2052%20HD(360P).mp4
+#EXTINF:-1,FORA DE CASA XXX
+https://cdn.wankoz.com/contents/videos/1029000/1029646/1029646_s.mp4?stime=20180914015003&etime=20180914030003&hash=082599b9827609c478720
+#EXTINF:-1,MOFOS XXX
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1,FANTHD1
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
+#EXTINF:-1,FANTHD2
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
+#EXTINF:-1,FANTHD3
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_caprianderson/content/vid01.mp4
+#EXTINF:-1,FANTHD4
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_natalieheart_chloefoster/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 12
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 13
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 14
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 15
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 16
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 17
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 18
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 19
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 20
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 21
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 22
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 23
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1,Adult 4K: VOD 24
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
