@@ -1,19 +1,1243 @@
-tudo 
-
-
-
-aqui tem
-
-
-
-mas porem entretanto
-
-
-
-quando convem
-
-
-mas em bre tera mais
-
-
-noviddes em breve
+#EXTM3U
+#EXTINF:-1, JANELA VIRTUAL
+http://185.57.68.33:8091/232/playlist.m3u8
+#EXTINF:-1, CBS NEWS  🇺🇸
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1, CBS NEWS 🇺🇸
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1, PLUTO TV CBS News Los Angeles 🇺🇸
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2791e5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a612bd7b-6a41-4c05-aebf-59ac30d6018b
+#EXTINF:-1, FOX News Now 🇺🇸
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1, Fox News NOVO
+http://supersonictv.live:8080/682537/231637/84988
+#EXTINF:-1, SKY NEWS 🇺🇸
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1, DW NEWS 🇺🇸
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1, Cheddar News 🇺🇸
+https://cheddar-cheddar-3-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, CNN 🇺🇸
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1, CNN Internacional 🇺🇸
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1200.m3u8
+#EXTINF:-1, CNN Internacional FHD NOVO
+http://supersonictv.live:8080/682537/231637/84952
+#EXTINF:-1, V+ TVI 🇵🇹
+https://bit.ly/3gejKxf?profile=inspirationFreetv.m3u8
+#EXTINF:-1, ESPN Brasil 4K
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/151844
+#EXTINF:-1, ESPN Brasil FHD NOVO
+http://supersonictv.live:8080/682537/231637/84979
+#EXTINF:-1, ESPN Brasil 4K NOVO
+http://supersonictv.live:8080/682537/231637/85178
+#EXTINF:-1, ESPN 2
+http://xtv.ooo:8080/874246786/743567899/348649
+#EXTINF:-1, ESPN 3
+http://xtv.ooo:8080/874246786/743567899/348650
+#EXTINF:-1, ESPN 3 FHD
+http://doubleclicktv.live:80/70376812/52663544/326953
+#EXTINF:-1, SPORTV 2
+http://xtv.ooo:8080/874246786/743567899/348654
+#EXTINF:-1, SPORTV 3
+http://xtv.ooo:8080/874246786/743567899/348655
+#EXTINF:-1, Band Sports
+http://xtv.ooo:8080/874246786/743567899/348646
+#EXTINF:-1, Band Sports FHD NOVO
+http://supersonictv.live:8080/682537/231637/84942
+#EXTINF:-1, Combate FHD
+http://doubleclicktv.live:80/70376812/52663544/326948
+#EXTINF:-1, Combate
+https://xyzdddd.mizhls.ru/lb/premium89/index.m3u8
+#EXTINF:-1, Combate FHD NOVO
+http://supersonictv.live:8080/682537/231637/84953
+#EXTINF:-1, COMBATE 4K NOVO
+http://supersonictv.live:8080/682537/231637/85165
+#EXTINF:-1, Channel Fight 🇺🇸
+https://d15wqvt0xm15k4.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/ChannelFight-Nuestra/266.m3u8
+#EXTINF:-1, XFC MMA 🇺🇸 
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1, Euronews 🇵🇹
+https://bit.ly/46RyCcU?profile=inspirationFreetv.m3u8
+#EXTINF:-1, TV VIDEONEWS
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist.m3u8
+#EXTINF:-1, Resumo da OPERA NEWS
+https://011news.akamaized.net/011news/011news/chunklist_720p.m3u8
+#EXTINF:-1, COM Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1, COM Brasil TV FHD NOVO
+http://supersonictv.live:8080/682537/231637/85164
+#EXTINF:-1, CNN Brasil
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+#EXTINF:-1, CNN Brasil FHD NOVO
+http://supersonictv.live:8080/682537/231637/84950
+#EXTINF:-1, Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1, JOVEM PAN NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+#EXTINF:-1, Jovem Pan News FHD NOVO
+http://supersonictv.live:8080/682537/231637/85228
+#EXTINF:-1, Band News
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/482
+#EXTINF:-1, Band News FHD NOVO
+http://supersonictv.live:8080/682537/231637/84941
+#EXTINF:-1, Globo News
+http://xtv.ooo:8080/874246786/743567899/348636
+#EXTINF:-1, Globo News*
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659733
+#EXTINF:-1, GLOBO NEWS
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659734
+#EXTINF:-1, Globo News FHD NOVO
+http://supersonictv.live:8080/682537/231637/85005
+#EXTINF:-1, New Brasil
+https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
+#EXTINF:-1, Canal Brasil FHD NOVO
+http://supersonictv.live:8080/682537/231637/84945
+#EXTINF:-1, Globo TV Brasilia HD NOVO
+http://supersonictv.live:8080/682537/231637/84996
+#EXTINF:-1, Globo TV Brasilia FHD NOVO
+http://supersonictv.live:8080/682537/231637/85020
+#EXTINF:-1, GLOBO 4K NOVO
+http://supersonictv.live:8080/682537/231637/85183
+#EXTINF:-1, Globo Inter PT FHD NOVO
+http://supersonictv.live:8080/682537/231637/85186
+#EXTINF:-1, Globo EPTV Sao Carlos
+http://xtv.ooo:8080/874246786/743567899/348681
+#EXTINF:-1, Globo NSC TV
+http://xtv.ooo:8080/874246786/743567899/348687
+#EXTINF:-1, Globo RBS RS TV
+http://xtv.ooo:8080/874246786/743567899/348690
+#EXTINF:-1, EPTV
+http://xtv.ooo:8080/874246786/743567899/348679
+#EXTINF:-1, Record DF HD NOVO
+http://supersonictv.live:8080/682537/231637/85073
+#EXTINF:-1, SBT
+http://xtv.ooo:8080/874246786/743567899/348634
+#EXTINF:-1, SBT FHD NOVO
+http://supersonictv.live:8080/682537/231637/85089
+#EXTINF:-1, REDE TV
+http://tv.mapfibra.com.br:8555/live/1438/123456/102.m3u8
+#EXTINF:-1, Rede Super FHD NOVO
+http://supersonictv.live:8080/682537/231637/85087
+#EXTINF:-1, TV Brasil 2 FHD NOVO
+http://supersonictv.live:8080/682537/231637/85329
+#EXTINF:-1, TV Justiça FHD NOVO
+http://supersonictv.live:8080/682537/231637/85343
+#EXTINF:-1, FUTURA
+http://tv.mapfibra.com.br:8555/live/1438/123456/67.m3u8
+#EXTINF:-1, DEMAND AFRICA
+https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8
+#EXTINF:-1, Chef TV FHD NOVO
+http://supersonictv.live:8080/682537/231637/84947
+#EXTINF:-1, Food Network FHD NOVO
+http://supersonictv.live:8080/682537/231637/84985
+#EXTINF:-1, Arte 1 FHD NOVO
+http://supersonictv.live:8080/682537/231637/84937
+#EXTINF:-1, Curta!
+http://xtv.ooo:8080/874246786/743567899/348476
+#EXTINF:-1, Curta! FHD NOVO
+http://supersonictv.live:8080/682537/231637/84963
+#EXTINF:-1, Investigation Discovery
+http://xtv.ooo:8080/874246786/743567899/348482
+#EXTINF:-1, Discovery ID FHD NOVO
+http://supersonictv.live:8080/682537/231637/84968
+#EXTINF:-1, Discovery Science
+http://xtv.ooo:8080/874246786/743567899/348478
+#EXTINF:-1, Discovery Science FHD NOVO
+http://supersonictv.live:8080/682537/231637/84970
+#EXTINF:-1, Discovery Theather FHD NOVO
+http://supersonictv.live:8080/682537/231637/84971
+#EXTINF:-1, Discovery World 1
+http://xtv.ooo:8080/874246786/743567899/348479
+#EXTINF:-1, Discovery World 2
+http://15.235.50.112:14112/DiscoveryWorld
+#EXTINF:-1, Discovery World FHD NOVO
+http://supersonictv.live:8080/682537/231637/84973
+#EXTINF:-1, DISCOVERY HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659706
+#EXTINF:-1, Discovery Channel FHD NOVO
+http://supersonictv.live:8080/682537/231637/84966
+#EXTINF:-1, Animal Planet FHD NOVO
+http://supersonictv.live:8080/682537/231637/84936
+#EXTINF:-1, Natgeo Wild FHD NOVO
+http://supersonictv.live:8080/968896/903421/85054
+#EXTINF:-1, History
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/82
+#EXTINF:-1, HISTORY
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659747
+#EXTINF:-1, The History FHD NOVO
+http://supersonictv.live:8080/682537/231637/85106
+#EXTINF:-1, History 2
+http://xtv.ooo:8080/874246786/743567899/348481
+#EXTINF:-1, H2
+https://cdn-3.nxplay.com.br/HISTORY_2_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1, HISTORY2
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659748
+#EXTINF:-1, H2 FHD NOVO
+http://supersonictv.live:8080/682537/231637/85033
+#EXTINF:-1, Nat Geographic*
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com
+https://embedcanaistv.club/nationalgeografic/video.m3u8
+#EXTINF:-1, Canal Off
+http://15.235.11.7:14075/OFF
+#EXTINF:-1, OFF FHD NOVO
+http://supersonictv.live:8080/682537/231637/85058
+#EXTINF:-1, Discovery H&H
+http://xtv.ooo:8080/874246786/743567899/348477
+#EXTINF:-1, DISCOVERY HOME&HEALTH HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659707
+#EXTINF:-1, Discovery Home & Health FHD NOVO
+http://supersonictv.live:8080/682537/231637/84967
+#EXTINF:-1, FOX FHD NOVO
+http://supersonictv.live:8080/682537/231637/84986
+#EXTINF:-1, Fox Life FHD NOVO
+http://supersonictv.live:8080/682537/231637/84987
+#EXTINF:-1, GNT FHD NOVO
+http://supersonictv.live:8080/682537/231637/85032
+#EXTINF:-1, TLC FHD NOVO
+http://supersonictv.live:8080/682537/231637/85107
+#EXTINF:-1, HomeFul
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8
+#EXTINF:-1, HGTV FHD NOVO
+http://supersonictv.live:8080/682537/231637/85042
+#EXTINF:-1, Discovery Turbo FHD NOVO
+http://supersonictv.live:8080/682537/231637/84972
+#EXTINF:-1, URBAN TURBO
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
+#EXTINF:-1, Motor Racing 🇬🇧
+https://bit.ly/47PpdnF?profile=inspirationFreetv.m3u8
+#EXTINF:-1, Canal tv Motor 🇺🇸
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Nitro Circus tv 🇺🇸
+https://bit.ly/3ts1jzy?profile=inspirationFreetv.m3u8
+#EXTINF:-1, REELZ Famous & Infamousᴴᴰ 🇺🇸 
+https://bit.ly/3u2C9Ys?profile=inspirationlivetv.m3u8
+#EXTINF:-1, PLUTO TV BM&C News
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1, PLUTO TV Car Chase News 🇺🇸
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65a939fad77d450008863835/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTINF:-1, PLUTO TV CSI 🇺🇸
+https://bit.ly/csi_inspiration_m3u8
+#EXTINF:-1, PLUTO TV CSI 01 🇺🇸
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e9224f41d5e100076db2b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c79df70-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dec120d8-b140-4915-a068-07986f2860d1
+#EXTINF:-1, PLUTO TV CSI 02 🇺🇸
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285530-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e46fc93-9eb8-4999-b20e-4600002dd255
+#EXTINF:-1, PLUTO TV ADRENALINA FREEZONE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1, PLUTO TV CINE SUCESSOS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1, PLUTO TV CINE DRAMA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1, PLUTO TV CINE SUSPENSE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1, PLUTO TV CINE CRIME
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1, PLUTO TV INVESTIGAÇÃO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1, PLUTO TV CINE AÇÂO
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1, PLUTO TV VIDA REAL
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1, PLUTO TV GEEK E TECH
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1, PLUTO TV FICÇÃO CIENTIFICA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1, PLUTO TV ANIMAIS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1, PLUTO TV PORTA DOS FUNDOS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f36f2346ede750007332d11/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=512&deviceId=5f36f2346ede750007332d11&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1, PLUTO TV NARUTO
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=186&deviceId=5f6df5a173d7340007c559f7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+#EXTINF:-1, PLUTO TV NARUTO SHIPPUDEN
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1, PLUTO TV HUNTER X HUNTER 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1, PLUTO TV DEATH NOTE
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1, PLUTO TV ANIME 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1, PLUTO TV ANIME AÇÂO 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1, Otaku Sign
+https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
+#EXTINF:-1, LOADING
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1499921038.m3u8
+#EXTINF:-1, Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1, CLOUDING
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w739638910.m3u8
+#EXTINF:-1, ANIMAX
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
+#EXTINF:-1, Cartoon Network
+http://xtv.ooo:8080/874246786/743567899/348486
+#EXTINF:-1, Cartoon Network FHD NOVO
+http://supersonictv.live:8080/682537/231637/84946
+#EXTINF:-1, Play Kids HD NOVO
+http://supersonictv.live:8080/682537/231637/85060
+#EXTINF:-1, Play TV FHD NOVO
+http://supersonictv.live:8080/682537/231637/85061
+#EXTINF:-1, Comedy Central FHD NOVO
+http://supersonictv.live:8080/682537/231637/84954
+#EXTINF:-1, Adult Swim*
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659675
+#EXTINF:-1, Adult Swim NOVO
+http://supersonictv.live:8080/682537/231637/85111
+#EXTINF:-1, REDE UTV
+http://tv.mapfibra.com.br:8555/live/1438/123456/254.m3u8
+#EXTINF:-1, GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8?ManoTV
+#EXTINF:-1, ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+#EXTINF:-1, NGT
+https://isaocorp.cloudecast.com/nbt/index.m3u8?ManoTV
+#EXTINF:-1, TBS FHD NOVO
+http://supersonictv.live:8080/682537/231637/85098
+#EXTINF:-1, TCM FHD NOVO
+http://supersonictv.live:8080/682537/231637/85105
+#EXTINF:-1, VILA TV
+https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w1861708972.m3u8
+#EXTINF:-1, D+ TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w916705553.m3u8
+#EXTINF:-1, HALLO! Séries
+https://cdn-3.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HALLO! Movies
+https://cdn-3.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HALLO! Plus
+https://cdn-3.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1, HALLO! Classic
+https://cdn-3.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PIX TV
+https://mpix05.tmwpix.com:6516/pix/pixtv_hi.m3u8
+#EXTINF:-1, CHESPIRITO
+http://tv.mapfibra.com.br:8555/live/1438/123456/159.m3u8
+#EXTINF:-1, PLAYPOCA FILMES
+http://tv.mapfibra.com.br:8555/live/1438/123456/238.m3u8
+#EXTINF:-1, PLAYPOCA SERIES
+http://tv.mapfibra.com.br:8555/live/1438/123456/239.m3u8
+#EXTINF:-1, HTO Filmes
+https://cdn-3.nxplay.com.br/HTO_Filmes/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Universal Channel
+http://xtv.ooo:8080/874246786/743567899/348617
+#EXTINF:-1, Universal Channel
+https://dzcdn.vood.top/hls/742_.m3u8
+#EXTINF:-1, Universal Channel FHD NOVO
+http://supersonictv.live:8080/682537/231637/85119
+#EXTINF:-1, Universal TV DUAL HD NOVO
+http://supersonictv.live:8080/682537/231637/85354
+#EXTINF:-1, Star Channel
+http://xtv.ooo:8080/874246786/743567899/348605
+#EXTINF:-1, Star Channel
+https://embedcanaistv.club/starchannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Warner Channel
+https://cdn-3.nxplay.com.br/WARNER_CHANNEL/tracks-v2a1/mono.m3u8
+#EXTINF:-1, Warner Channel*
+https://embedcanaistv.club/warner/video.m3u8
+#EXTINF:-1, Warner Channel FHD NOVO
+http://supersonictv.live:8080/682537/231637/85122
+#EXTINF:-1, SONY
+https://cdn-3.nxplay.com.br/SONY_CHANNEL/tracks-v2a1/mono.m3u8
+#EXTINF:-1, Sony FHD NOVO
+http://supersonictv.live:8080/682537/231637/85091
+#EXTINF:-1, AXN
+https://cdn-3.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1, AXN FHD NOVO
+http://supersonictv.live:8080/682537/231637/84938
+#EXTINF:-1, A&E
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
+#EXTINF:-1, A&E
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659674
+#EXTINF:-1, A&E FHD NOVO
+http://supersonictv.live:8080/682537/231637/84935
+#EXTINF:-1, Lifetime
+https://cdn-3.nxplay.com.br/LIFE_TIME_TK/tracks-v2a1/mono.m3u8
+#EXTINF:-1, Lifetime FHD NOVO
+http://supersonictv.live:8080/682537/231637/85045
+#EXTINF:-1, SYFY HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659798
+#EXTINF:-1, SYFY FHD NOVO
+http://supersonictv.live:8080/682537/231637/85097
+#EXTINF:-1, TNT Series
+http://xtv.ooo:8080/874246786/743567899/348616
+#EXTINF:-1, TNT Series
+http://170.80.69.8:8000/play/a0cy/index.m3u8
+#EXTINF:-1, TNT Series 🇧🇷
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16761.m3u8
+#EXTINF:-1, TNT Series 🇧🇷
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com
+https://embedcanaistv.club/tntseries/video.m3u8
+#EXTINF:-1, TNT Series DUAL HD NOVO
+http://supersonictv.live:8080/682537/231637/85309
+#EXTINF:-1, TNT Series FHD NOVO
+http://supersonictv.live:8080/682537/231637/85109
+#EXTINF:-1, Fx 🇧🇷*
+https://embedcanaistv.club/fx/video.m3u8
+#EXTINF:-1, FX HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659732
+#EXTINF:-1, AMC
+http://dzcdn.vood.top/hls/669_.m3u8
+#EXTINF:-1, AMC HD
+http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659677
+#EXTINF:-1, AMC FHD NOVO
+http://supersonictv.live:8080/682537/231637/85125
+#EXTINF:-1, TNT HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5192
+#EXTINF:-1, TNT FHD NOVO
+http://supersonictv.live:8080/682537/231637/85108
+#EXTINF:-1, TNT 4K NOVO
+http://supersonictv.live:8080/682537/231637/85305
+#EXTINF:-1, TNT DUAL HD NOVO
+http://supersonictv.live:8080/682537/231637/85307
+#EXTINF:-1, MEGAPIX
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31278.ts
+#EXTINF:-1, Megapix FHD NOVO
+http://supersonictv.live:8080/682537/231637/85047
+#EXTINF:-1, MEGAPIX 4K NOVO
+http://supersonictv.live:8080/682537/231637/85232
+#EXTINF:-1, SPACE
+http://xtv.ooo:8080/874246786/743567899/348604
+#EXTINF:-1, Space 🇧🇷
+http://fzcdn.vood.top:80/hls/705_.m3u8
+#EXTINF:-1, Space 🇧🇷
+https://embedcanaistv.club/space/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Space FHD NOVO
+http://supersonictv.live:8080/682537/231637/85092
+#EXTINF:-1, Space 4K NOVO
+http://supersonictv.live:8080/682537/231637/85282
+#EXTINF:-1, CINEMAX
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/5105
+#EXTINF:-1, Cinemax
+http://s1.1-cup.net:2095/live/solucao111hgfgh77hu78/xplus1111XXhjgyu87/43.m3u8
+#EXTINF:-1, Cinemax
+http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/240.ts
+#EXTINF:-1, Cinemax FHD NOVO
+http://supersonictv.live:8080/682537/231637/84948
+#EXTINF:-1, Cinemax HD NOVO
+http://supersonictv.live:8080/682537/231637/84949
+#EXTINF:-1, Studio Universal
+http://xtv.ooo:8080/874246786/743567899/348606
+#EXTINF:-1, Studio Universal FHD NOVO
+http://supersonictv.live:8080/682537/231637/85096
+#EXTINF:-1, Studio Universal DUAL HD NOVO
+http://supersonictv.live:8080/682537/231637/85286
+#EXTINF:-1, Paramount Network
+http://dzcdn.vood.top/hls/695_.m3u8
+#EXTINF:-1, Paramount Network
+http://xtv.ooo:8080/874246786/743567899/348601
+#EXTINF:-1, Paramount Channel FHD NOVO
+http://supersonictv.live:8080/682537/231637/85059
+#EXTINF:-1, TC Premium FHD NOVO
+http://supersonictv.live:8080/682537/231637/85103
+#EXTINF:-1, TELECINE PREMIUM 4K NOVO
+http://supersonictv.live:8080/682537/231637/85301
+#EXTINF:-1, TC ACTION FHD NOVO
+http://supersonictv.live:8080/682537/231637/85099
+#EXTINF:-1, TC Action DUAL HD NOVO
+http://supersonictv.live:8080/682537/231637/85290
+#EXTINF:-1, TC Touch FHD NOVO
+http://supersonictv.live:8080/682537/231637/85104
+#EXTINF:-1, TC Fun FHD NOVO
+http://supersonictv.live:8080/682537/231637/85101
+#EXTINF:-1, TC Pipoca FHD NOVO
+http://supersonictv.live:8080/682537/231637/85102
+#EXTINF:-1, TC Cult FHD NOVO
+http://supersonictv.live:8080/682537/231637/85100
+#EXTINF:-1, TELECINE PREMIUM
+http://15.235.50.113:14009/TCPremium
+#EXTINF:-1, TELECINE ACTION
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31583.ts
+#EXTINF:-1, TELECINE TOUCH
+http://15.235.50.113:14012/TelecineTouch
+#EXTINF:-1, TELECINE FUN
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16756.ts
+#EXTINF:-1, TELECINE PIPOCA
+http://15.235.15.230:14005/TCPipoca
+#EXTINF:-1, TELECINE CULT
+http://15.235.50.113:14015/TelecineCult
+#EXTINF:-1, TELECINE PREMIUM
+http://170.80.69.8:8000/play/a0eu/index.m3u8
+#EXTINF:-1, TELECINE ACTION
+http://170.80.69.8:8000/play/a0eq/index.m3u8
+#EXTINF:-1, TELECINE TOUCH
+http://170.80.69.8:8000/play/a0ev/index.m3u8
+#EXTINF:-1, TELECINE FUN
+http://170.80.69.8:8000/play/a0es/index.m3u8
+#EXTINF:-1, TELECINE PIPOCA
+http://170.80.69.8:8000/play/a0et/index.m3u8
+#EXTINF:-1, TELECINE CULT
+http://170.80.69.8:8000/play/a0er/index.m3u8
+#EXTINF:-1, Telecine Premium 🇧🇷
+http://15.235.50.113:14009/TCPremium
+#EXTINF:-1, Telecine Premium 🇧🇷
+http://dzcdn.vood.top/hls/633_.m3u8
+#EXTINF:-1, Telecine Premium 🇧🇷
+http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/10649.ts
+#EXTINF:-1, Telecine Pipoca 🇧🇷
+http://15.235.15.230:14005/TCPipoca
+#EXTINF:-1, Telecine Pipoca 🇧🇷
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16757.m3u8
+#EXTINF:-1, Telecine Cult 🇧🇷
+http://15.235.50.113:14015/TelecineCult
+#EXTINF:-1, Telecine Cult 🇧🇷
+http://15.235.50.113:14014/TelecineCult
+#EXTINF:-1, Telecine Fun 🇧🇷
+http://15.235.50.113:14018/TelecineFun
+#EXTINF:-1, Telecine Fun 🇧🇷
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/16756.ts
+#EXTINF:-1, Telecine Touch 🇧🇷
+http://15.235.50.113:14012/TelecineTouch
+#EXTINF:-1, Telecine Touch 🇧🇷
+http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/310.ts
+#EXTINF:-1, Telecine Touch 🇧🇷
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31593.ts
+#EXTINF:-1, Telecine Action 🇧🇷
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31583.ts
+#EXTINF:-1, Telecine Action 🇧🇷
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:-1, HBO
+http://170.80.69.8:8000/play/a0cc/index.m3u8
+#EXTINF:-1, HBO 🇧🇷
+http://tv.proyectox.vip:8080//live/carsalazar1/4ANqaenRM5/10614.ts
+#EXTINF:-1, HBO 🇧🇷
+http://ggrrth.htvsat.info:8880/live/287994017b71/287994017b71/31465.ts
+#EXTINF:-1, HBO FHD NOVO
+http://supersonictv.live:8080/682537/231637/85036
+#EXTINF:-1, HBO 4K NOVO
+http://supersonictv.live:8080/682537/231637/85213
+#EXTINF:-1, HBO DUAL FHD NOVO
+http://supersonictv.live:8080/682537/231637/85214
+#EXTINF:-1, HBO 2
+http://170.80.69.8:8000/play/a0e2/index.m3u8
+#EXTINF:-1, HBO 2 FHD NOVO
+http://supersonictv.live:8080/682537/231637/85034
+#EXTINF:-1, HBO 2 DUAL HD NOVO
+http://supersonictv.live:8080/682537/231637/85212
+#EXTINF:-1, HBO +
+http://xtv.ooo:8080/874246786/743567899/348598
+#EXTINF:-1, HBO+ 🇧🇷 (cc 🇵🇹🇧🇷)
+http://authxplus-2.xyz:2082/live/Xplus-1-tiaIQclyoa/XibmyDxkvK/246.m3u8
+#EXTINF:-1, HBO Plus FHD NOVO
+http://supersonictv.live:8080/682537/231637/85038
+#EXTINF:-1, HBO Family FHD NOVO
+http://supersonictv.live:8080/682537/231637/85035
+#EXTINF:-1, HBO Signature
+http://170.80.69.8:8000/play/a0e3/index.m3u8
+#EXTINF:-1, HBO Signature FHD NOVO
+http://supersonictv.live:8080/682537/231637/85040
+#EXTINF:-1, HBO Pop
+http://170.80.69.8:8000/play/a0cg/index.m3u8
+#EXTINF:-1, HBO Pop FHD NOVO
+http://supersonictv.live:8080/682537/231637/85039
+#EXTINF:-1, HBO Pop DUAL HD NOVO
+http://supersonictv.live:8080/682537/231637/85220
+#EXTINF:-1, HBO Mundi 2
+http://170.80.69.8:8000/play/a0cf/index.m3u8
+#EXTINF:-1, HBO Mundi FHD NOVO
+http://supersonictv.live:8080/682537/231637/85037
+#EXTINF:-1, HBO Xtreme
+http://xtv.ooo:8080/874246786/743567899/348596
+#EXTINF:-1, HBO Xtreme 2
+http://170.80.69.8:8000/play/a0e4/index.m3u8
+#EXTINF:-1, HBO Xtreme FHD NOVO
+http://supersonictv.live:8080/682537/231637/85041
+#EXTINF:-1, HBO Xtreme DUAL FHD NOVO
+http://supersonictv.live:8080/682537/231637/85222
+#EXTINF:-1, HBO XTREME 4K NOVO
+http://supersonictv.live:8080/682537/231637/85221
+#EXTINF:-1, MY TIME MOVIES
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8?ManoTV
+#EXTINF:-1, SONY ONE SHARK TANK
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+#EXTINF:-1, SONY ONE CLASSICS
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, Sony One EMOCOES
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, MOVIE SPHERE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-samsungbr/playlist.m3u8
+#EXTINF:-1, URBAN MOVIES
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:-1, Espaconave Terra Semana 01
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2001%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 02
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2002%20HD(480P).mp4
+#EXTINF:-1, Espaconave Terra Semana 03
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2003%20HQ(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 04
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2004%20HQ(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 05
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2005%20HD(480P).mp4
+#EXTINF:-1, Espaconave Terra Semana 06
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2006%20HD(480P).mp4
+#EXTINF:-1, Espaconave Terra Semana 07
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2007%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 08
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2008%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 09
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2009%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 10
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2010%20HD(480P).mp4
+#EXTINF:-1, Espaconave Terra Semana 11
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2011%20HD(480P).mp4
+#EXTINF:-1, Espaconave Terra Semana 12
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2012%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 13
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2013%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 14
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2014%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 15
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2015%20HD(480P).mp4
+#EXTINF:-1, Espaconave Terra Semana 16
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2016%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 17
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2017%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 18
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2018%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 19
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2019%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 20
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2020%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 21
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2021%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 22
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2022%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 23
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2023%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 24
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2024%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 25
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2025%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 26
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2026%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 27
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2027%20HD(480P).mp4
+#EXTINF:-1, Espaconave Terra Semana 28
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2028%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 29
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2029%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 30
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2030%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 31
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2031%20HD(480P).mp4
+#EXTINF:-1, Espaconave Terra Semana 32
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2032%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 33
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2033%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 34
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2034%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 35
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2035%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 36
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2036%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 37
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2037%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 38
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2038%20HD(360P).mp4
+#EXTINF:-1,Espaconave Terra Semana 39
+https://github.com/mariosanthos/arquivo2/raw/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2039%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 40
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2040%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 41
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2041%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 42
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2042%20HD(480P).mp4
+#EXTINF:-1, Espaconave Terra Semana 43
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2043%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 44
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2044%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 45
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2045%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 46
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2046%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 47
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2047%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 48
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2048%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 49
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2049%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 50
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2050%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 51
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2051%20HD(360P).mp4
+#EXTINF:-1, Espaconave Terra Semana 52
+https://raw.githubusercontent.com/mariosanthos/arquivo2/main/Espa%C3%A7onave%20Terra%20(Tous%20Sur%20Orbite)%20-%20Semana%2052%20HD(360P).mp4
+#EXTINF:-1, Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+#EXTINF:-1, XXX Sextreme
+http://38.41.8.1:8000/play/a0ex
+#EXTINF:-1, XXX Blacked 
+http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1, XXX Erox HD
+http://178.219.128.68:64888/EROXHD
+#EXTINF:-1, XXX Barely Legal
+http://ott.watch/stream/83K27DP6PU/289.m3u8
+#EXTINF:-1, XXX Barely Legal
+http://168.119.255.170/711/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1, XXX Bunga Bunga 
+http://62.210.123.134:98/live/an75d/75d/98.ts
+#EXTINF:-1, XXX XDesire 
+http://62.210.123.134:98/live/an75d/75d/99.m3u8
+#EXTINF:-1, XXX Playboy TV  
+http://181.78.109.49:8000/play/a01c/index.m3u8
+#EXTINF:-1, XXX Playboy TV
+http://181.78.105.146:6060/play/a052
+#EXTINF:-1, XXX Playboy TV 
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1, XXX Venus tv 🇦🇷 
+http://168.181.122.234:8000/play/a027/index.m3u8
+#EXTINF:-1, XXX Venus tv 🇦🇷 
+http://45.5.117.3:4000/play/a04e/index.m3u8
+#EXTINF:-1, MOFOS XXX
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+#EXTINF:-1, XXX SEXTREME_LA6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4159
+#EXTINF:-1, XXX SEXTREME_LA5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4160
+#EXTINF:-1, XXX SEXTREME_LA3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4161
+#EXTINF:-1, XXX SEXTREME_LA2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4162
+#EXTINF:-1, XXX SEXTREME_LA1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4163
+#EXTINF:-1, XXX VENUS_LA5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4164
+#EXTINF:-1, XXX VENUS_LA4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4165
+#EXTINF:-1, XXX VENUS_LA3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4166
+#EXTINF:-1, XXX VENUS_LA2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4167
+#EXTINF:-1, XXX +18 VENUS_LA1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4168
+#EXTINF:-1, XXX PINKO_LA8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4169
+#EXTINF:-1, XXX PINKO_LA6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4170
+#EXTINF:-1, XXX PINKO_LA5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4171
+#EXTINF:-1, XXX PINKO_LA4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4172
+#EXTINF:-1, XXX PINKO_LA3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4173
+#EXTINF:-1, XXX VENUS_LA6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4175
+#EXTINF:-1, XXX PINKO_LA10
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4176
+#EXTINF:-1, XXX EROTIC_1 LA6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4178
+#EXTINF:-1, XXX EROTIC_1 LA5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4179
+#EXTINF:-1, XXX EROTIC_1 LA4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4180
+#EXTINF:-1, XXX EROTIC_1 LA3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4181
+#EXTINF:-1, XXX EROTIC_1 LA2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4182
+#EXTINF:-1, XXX EROTIC_1 LA1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4183
+#EXTINF:-1, XXX EROTIC_2 LA6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4184
+#EXTINF:-1, XXX EROTIC_2 LA5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4185
+#EXTINF:-1, XXX EROTIC_2 LA4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4186
+#EXTINF:-1, XXX EROTIC_2 LA3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4187
+#EXTINF:-1, XXX EROTIC_2 LA2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4188
+#EXTINF:-1, XXX EROTIC_2 LA1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4189
+#EXTINF:-1, XXX EROTIC_3 LA1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4190
+#EXTINF:-1, XXX EROTIC_4 LA5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4191
+#EXTINF:-1, XXX EROTIC_4 LA4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4192
+#EXTINF:-1, XXX EROTIC_4 LA3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4193
+#EXTINF:-1, XXX EROTIC_4 LA2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4194
+#EXTINF:-1, XXX EROTIC_4 LA1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4195
+#EXTINF:-1, XXX EROTIC_5 LA5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4196
+#EXTINF:-1, XXX EROTIC_5 LA3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4198
+#EXTINF:-1, XXX EROTIC_5 LA3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4199
+#EXTINF:-1, XXX EROTIC_5 LA2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4200
+#EXTINF:-1, XXX EROTIC_5 LA1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4201
+#EXTINF:-1, XXX EROTIC_6 LA6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4202
+#EXTINF:-1, XXX EROTIC_6 LA5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4203
+#EXTINF:-1, XXX EROTIC_6 LA4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4204
+#EXTINF:-1, XXX EROTIC_6 LA3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4205
+#EXTINF:-1, XXX EROTIC_6 LA2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4206
+#EXTINF:-1, XXX EROTIC_6 LA1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4207
+#EXTINF:-1, XXX EROTIC_7 LA6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4208
+#EXTINF:-1, XXX EROTIC_7 LA3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4211
+#EXTINF:-1, XXX EROTIC_7 LA2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4212
+#EXTINF:-1, XXX HOT_LA4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4215
+#EXTINF:-1, XXX HOT_LA1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4218
+#EXTINF:-1, XXX HOT_LA9
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4220
+#EXTINF:-1, XXX HOT_LA8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4221
+#EXTINF:-1, XXX HOT_LA7
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4222
+#EXTINF:-1, XXX HOT_LA6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4223
+#EXTINF:-1, XXX B6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4224
+#EXTINF:-1, XXX B5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4225
+#EXTINF:-1, XXX B4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4226
+#EXTINF:-1, XXX B3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4227
+#EXTINF:-1, XXX B2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4228
+#EXTINF:-1, XXX B1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4229
+#EXTINF:-1, XXX A6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4230
+#EXTINF:-1, XXX DORCEL HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4231
+#EXTINF:-1, XXX A4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4232
+#EXTINF:-1, XXX A3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4233
+#EXTINF:-1, XXX A2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4234
+#EXTINF:-1, XXX A1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4235
+#EXTINF:-1, XXX PRIVATE_LA14
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4236
+#EXTINF:-1, XXX PRIVATE_LA13
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4237
+#EXTINF:-1, XXX PRIVATE_LA12
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4238
+#EXTINF:-1, XXX PRIVATE_LA11
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4239
+#EXTINF:-1, XXX PRIVATE_LA10
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4240
+#EXTINF:-1, XXX PRIVATE_LA9
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4241
+#EXTINF:-1, XXX PRIVATE_LA8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4242
+#EXTINF:-1, XXX PRIVATE_LA7
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4243
+#EXTINF:-1, XXX PRIVATE_LA6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4244
+#EXTINF:-1, XXX PRIVATE_LA5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4245
+#EXTINF:-1, XXX PRIVATE_LA4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4246
+#EXTINF:-1, XXX PRIVATE_LA3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4247
+#EXTINF:-1, XXX PRIVATE_LA2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4248
+#EXTINF:-1, XXX EROTIC_4 LA6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4249
+#EXTINF:-1, XXX X1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4250
+#EXTINF:-1, XXX EROX HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4256
+#EXTINF:-1, XXX JASMIN TV
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4259
+#EXTINF:-1, XXX PLAYBOY EUROPE
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4262
+#EXTINF:-1, XXX PRIVATE TV HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4263
+#EXTINF:-1, XXX REDLIGHT HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4264
+#EXTINF:-1, XXX RED Hot XXX
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4267
+#EXTINF:-1, XXX SEXTREME_LA4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4271
+#EXTINF:-1, XXX PINKO_LA2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/4280
+#EXTINF:-1, XXX Video 1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7356
+#EXTINF:-1, XXX Wow Girls 1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7357
+#EXTINF:-1, XXX Wow Girls 10
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7358
+#EXTINF:-1, XXX Wow Girls 12
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7360
+#EXTINF:-1, XXX Wow Girls 13
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7361
+#EXTINF:-1, XXX Wow Girls 14
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7362
+#EXTINF:-1, XXX Wow Girls 15
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7363
+#EXTINF:-1, XXX Wow Girls 16
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7364
+#EXTINF:-1, XXX Wow Girls 17
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7365
+#EXTINF:-1, XXX Wow Girls 18
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7366
+#EXTINF:-1, XXX FINE VIDS
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/137958
+#EXTINF:-1, XXX FINE VIDS 2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/137959
+#EXTINF:-1, XXX FINE VIDS 3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/137960
+#EXTINF:-1, XXX FINE VIDS 4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/137961
+#EXTINF:-1, XXX DORCEL TV UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/141631
+#EXTINF:-1, XXX ASIAN HD TV
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/152553
+#EXTINF:-1, XXX PREMIUM SCENES HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/152554
+#EXTINF:-1, XXX Ukranie Amateurs
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/152996
+#EXTINF:-1, XXX Sex Xtreme Plus
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/152997
+#EXTINF:-1, XXX Czech Gang Bang VIP
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/152998
+#EXTINF:-1, XXX Hostel Sex 24hrs
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/152999
+#EXTINF:-1, XXX Erotics 18+
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/153001
+#EXTINF:-1, XXX MyCamTV Private 1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155172
+#EXTINF:-1, XXX MyCamTV Private 4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/155175
+#EXTINF:-1, XXX SEXMEX TV
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156758
+#EXTINF:-1, XXX Alba XXX 1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156759
+#EXTINF:-1, XXX Alba XXX 2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156760
+#EXTINF:-1, XXX Alba XXX 4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156762
+#EXTINF:-1, XXX Alba XXX 5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156763
+#EXTINF:-1, XXX OnlyFans makeusgold HD1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156765
+#EXTINF:-1, XXX Blacked Full HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156768
+#EXTINF:-1, XXX BLUE HUSTLER HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156769
+#EXTINF:-1, XXX Brazzers Hits
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156770
+#EXTINF:-1, XXX Day with a Pornstar
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156772
+#EXTINF:-1, XXX DDF Network
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156773
+#EXTINF:-1, XXX CINE Porn 2 uHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156774
+#EXTINF:-1, XXX FAKE AGENT
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156776
+#EXTINF:-1, XXX Fake Taxi UHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156777
+#EXTINF:-1, XXX Family Hookups
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156778
+#EXTINF:-1, XXX Family Strokes
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156779
+#EXTINF:-1, XXX FILMAX Adult 1 HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156780
+#EXTINF:-1, XXX FILMAX Adult 10 HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156781
+#EXTINF:-1, XXX FILMAX Adult 2 HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156782
+#EXTINF:-1, XXX FILMAX Adult 3 HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156783
+#EXTINF:-1, XXX FILMAX Adult 4 HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156784
+#EXTINF:-1, XXX FILMAX Adult 5 HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156785
+#EXTINF:-1, XXX FILMAX Adult 6 HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156786
+#EXTINF:-1, XXX FILMAX Adult 7 HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156787
+#EXTINF:-1, XXX FILMAX Adult 8 HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156788
+#EXTINF:-1, XXX Brazzers en Español VIP
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156789
+#EXTINF:-1, XXX BANGBROS TV HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/145823
+#EXTINF:-1, XXX SHEMALE ANGELS FHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/141926
+#EXTINF:-1, XXX REALITYKINGS HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/146368
+#EXTINF:-1, XXX Wow Girls 19
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7367
+#EXTINF:-1, XXX Wow Girls 2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7368
+#EXTINF:-1, XXX Wow Girls 20
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7369
+#EXTINF:-1, XXX Wow Girls 4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7371
+#EXTINF:-1, XXX Wow Girls 5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7372
+#EXTINF:-1, XXX Wow Girls 7
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7374
+#EXTINF:-1, XXX Wow Girls 8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7375
+#EXTINF:-1, XXX Wow Porn 1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7377
+#EXTINF:-1, XXX Wow Girls 3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7370
+#EXTINF:-1, XXX Wow Porn 10
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7378
+#EXTINF:-1, XXX Wow Porn 11
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7379
+#EXTINF:-1, XXX Wow Porn 12
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7380
+#EXTINF:-1, XXX Wow Porn 14
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7382
+#EXTINF:-1, XXX Wow Porn 15
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7383
+#EXTINF:-1, XXX Wow Porn 16
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7384
+#EXTINF:-1, XXX Wow Porn 17
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7385
+#EXTINF:-1, XXX Wow Porn 18
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7386
+#EXTINF:-1, XXX Wow Porn 19
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7387
+#EXTINF:-1, XXX Wow Porn 2
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7388
+#EXTINF:-1, XXX Wow Porn 20
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7389
+#EXTINF:-1, XXX Wow Porn 3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7390
+#EXTINF:-1, XXX Wow Porn 4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7391
+#EXTINF:-1, XXX Wow Porn 5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7392
+#EXTINF:-1, XXX Wow Porn 6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/7393
+#EXTINF:-1, XXX BRAZZERS TV EUROPE HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/140489
+#EXTINF:-1, XXX Net Video Girls VIP
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156790
+#EXTINF:-1, XXX Gay Adult TV
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156791
+#EXTINF:-1, XXX SEX MAX HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156792
+#EXTINF:-1, XXX Hot 1 FHD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156793
+#EXTINF:-1, XXX HOT 2 HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156794
+#EXTINF:-1, XXX HUSTLER Hits HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156795
+#EXTINF:-1, XXX EROXXX HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156796
+#EXTINF:-1, XXX My Pervy Family HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156797
+#EXTINF:-1, XXX Neo Shemales&Gays
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156798
+#EXTINF:-1, XXX Passion HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156799
+#EXTINF:-1, XXX Pure Babes HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156800
+#EXTINF:-1, XXX REDBOX ADULTS 1
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156801
+#EXTINF:-1, XXX REDBOX ADULTS 10
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156802
+#EXTINF:-1, XXX REDBOX ADULTS 11
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156803
+#EXTINF:-1, XXX REDBOX ADULTS 12
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156804
+#EXTINF:-1, XXX REDBOX ADULTS 13
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156805
+#EXTINF:-1, XXX REDBOX ADULTS 14
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156806
+#EXTINF:-1, XXX REDBOX ADULTS 15
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156807
+#EXTINF:-1, XXX REDBOX ADULTS 16
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156808
+#EXTINF:-1, XXX REDBOX ADULTS 17
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156809
+#EXTINF:-1, XXX REDBOX ADULTS 18
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156810
+#EXTINF:-1, XXX REDBOX ADULTS 19
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156811
+#EXTINF:-1, XXX OnlyFans Kiittenymph HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156812
+#EXTINF:-1, XXX REDBOX ADULTS 20
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156813
+#EXTINF:-1, XXX REDBOX ADULTS 21
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156814
+#EXTINF:-1, XXX Russkaya Noch (VIP)
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156815
+#EXTINF:-1, XXX REDBOX ADULTS 23
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156816
+#EXTINF:-1, XXX REDBOX ADULTS 24
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156817
+#EXTINF:-1, XXX REDBOX ADULTS 25
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156818
+#EXTINF:-1, XXX REDBOX ADULTS 26
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156819
+#EXTINF:-1, XXX REDBOX ADULTS 27
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156820
+#EXTINF:-1, XXX REDBOX ADULTS 28
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156821
+#EXTINF:-1, XXX REDBOX ADULTS 29
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156822
+#EXTINF:-1, XXX REDBOX ADULTS 3
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156823
+#EXTINF:-1, XXX REDBOX ADULTS 30
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156824
+#EXTINF:-1, XXX REDBOX ADULTS 32
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156826
+#EXTINF:-1, XXX REDBOX ADULTS 33
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156827
+#EXTINF:-1, XXX REDBOX ADULTS 34
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156828
+#EXTINF:-1, XXX REDBOX ADULTS 35
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156829
+#EXTINF:-1, XXX REDBOX ADULTS 36
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156830
+#EXTINF:-1, XXX REDBOX ADULTS 37
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156831
+#EXTINF:-1, XXX OnlyFans Lauren Phippips OF Dredd
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156833
+#EXTINF:-1, XXX REDBOX ADULTS 4
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156834
+#EXTINF:-1, XXX REDBOX ADULTS 40
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156835
+#EXTINF:-1, XXX REDBOX ADULTS 5
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156836
+#EXTINF:-1, XXX REDBOX ADULTS 6
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156837
+#EXTINF:-1, XXX REDBOX ADULTS 7
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156838
+#EXTINF:-1, XXX REDBOX ADULTS 8
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156839
+#EXTINF:-1, XXX OnlyFans Lunabenna HD
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156840
+#EXTINF:-1, XXX True Amateurs
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/156842
+#EXTINF:-1, XXX PLAYBOY LATINO AMÉRICA
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/200127
+#EXTINF:-1, XXX PornBox EVIL ANGEL
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190592
+#EXTINF:-1, XXX PornBox EROTIKVONBENAN
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190591
+#EXTINF:-1, XXX PornBox DREAMROOM
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190590
+#EXTINF:-1, XXX PornBox DORCEL CLUB
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190589
+#EXTINF:-1, XXX PornBox DOGFART NETWORK
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190588
+#EXTINF:-1, XXX TABOO DIGITAL
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190587
+#EXTINF:-1, XXX PornBox X-MO Live
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190586
+#EXTINF:-1, XXX PornBox DAGFS
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190584
+#EXTINF:-1, XXX PornBox CUM 4K
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190583
+#EXTINF:-1, XXX PornBox CASTING COUCH
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190582
+#EXTINF:-1, XXX PornBox BOX OF PORN
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190578
+#EXTINF:-1, XXX PornBox BLOW ME POV
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190577
+#EXTINF:-1, XXX PornBox BUMS BUS
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190581
+#EXTINF:-1, XXX PornBox BRATTY SIS
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190579
+#EXTINF:-1, XXX PornBox DDF BUSTY
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190585
+#EXTINF:-1, XXX PornBox A GIRL KNOWS
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190567
+#EXTINF:-1, XXX PornBox ADULT TIME
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190568
+#EXTINF:-1, XXX PornBox ALL BLACK X
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190569
+#EXTINF:-1, XXX PornBox AMATEUR EURO
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190571
+#EXTINF:-1, XXX PornBox ALL GROUP SEX
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190570
+#EXTINF:-1, XXX PornBox ANALIZED
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190572
+#EXTINF:-1, XXX PornBox BABES
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190573
+#EXTINF:-1, XXX PornBox BANG BROS NETWORK
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190574
+#EXTINF:-1, XXX PornBox BIPHORIA
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190575
+#EXTINF:-1, XXX PornBox BLACKED
+http://1.84423.xyz:8000/XxXxXXXxX/04Il0O395xc22/190576
+#EXTINF:-1, XXX Sextreme 🔞 
+http://38.41.8.1:8000/play/a0ex
+#EXTINF:-1, XXX Blacked 🔞 
+http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1, XXX Erox HD 🔞 
+http://178.219.128.68:64888/EROXHD
+#EXTINF:-1, XXX Playboy TV 🔞 
+http://181.78.109.49:8000/play/a01c/index.m3u8
+#EXTINF:-1, XXX Venus TV 🔞 
+http://45.5.117.3:4000/play/a04e/index.m3u8
+#EXTINF:-1, FANTHD1
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
+#EXTINF:-1, FANTHD2
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
+#EXTINF:-1, FANTHD3
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_caprianderson/content/vid01.mp4
+#EXTINF:-1, FANTHD4
+http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_natalieheart_chloefoster/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 12
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 13
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 14
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 15
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 16
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 17
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 18
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 19
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 20
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 21
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 22
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 23
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1, Adult 4K: VOD 24
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
